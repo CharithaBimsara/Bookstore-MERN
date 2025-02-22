@@ -2,6 +2,10 @@
 
 A full-stack bookstore application built using the **MERN stack** (MongoDB, Express.js, React, Node.js). 📖💻
 
+## 📷 Demo
+
+![demo](demo.png)
+
 ## 🚀 Features
 
 - ✅ User authentication (Sign Up, Login)
