@@ -27,13 +27,7 @@ A full-stack bookstore application built using the **MERN stack** (MongoDB, Expr
 
    ```bash
    git clone https://github.com/charithabimsara/Bookstore-MERN.git
-
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/charithabimsara/Bookstore-MERN.git
-    ```
+   ```
 2. Navigate to the project directory:
 
     ```
