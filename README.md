@@ -52,10 +52,10 @@ A full-stack bookstore application built using the **MERN stack** (MongoDB, Expr
     ```
 2. Start the frontend server:
     ```
-    npm start
+    npm run dev
     ```
 
-3. The app will be available at http://localhost:3000 for the frontend and http://localhost:5000 for the backend.
+3. The app will be available at http://localhost:5173 for the frontend and http://localhost:3000 for the backend.
 
 ## 📄 License
 
