@@ -4,7 +4,13 @@ A full-stack bookstore application built using the **MERN stack** (MongoDB, Expr
 
 ## 📷 Demo
 
-![demo](demo.png)
+Here are some screenshots showcasing different parts of the application:
+
+| ![Home](images/home.png) | ![Book Details](images/book-details.png) | ![Cart](images/cart.png) |
+
+| ![Checkout](images/checkout.png) | ![Admin](images/admin.png) |
+
+---
 
 ## 🚀 Features
 
