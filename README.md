@@ -2,13 +2,23 @@
 
 A full-stack bookstore application built using the **MERN stack** (MongoDB, Express.js, React, Node.js). 📖💻
 
-## 📷 Demo
 
-Here are some screenshots showcasing different parts of the application:
+## 🖼️ Application Screenshots
 
-| ![Home](images/home.png) | ![Book Details](images/book-details.png) | ![Cart](images/cart.png) |
-
-| ![Checkout](images/checkout.png) | ![Admin](images/admin.png) |
+<div align="center">
+  <h3>✨ Application Preview</h3>
+  
+  <table>
+    <tr>
+      <td><img src="images/home.png" alt="Home Page" width="100%"/></td>
+      <td><img src="images/book-details.png" alt="Book Details" width="100%"/></td>
+    </tr>
+    <tr>
+      <td><img src="images/cart.png" alt="Shopping Cart" width="100%"/></td>
+      <td><img src="images/admin.png" alt="Admin Panel" width="100%"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
